@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../jacktheyan.github.io"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projects"
+	}
+}

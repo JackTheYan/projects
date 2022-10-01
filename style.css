@@ -101,8 +101,11 @@ body {
 
 /**** Section Projects & Cards ****/
 
-     .card{
-    margin-bottom: 20px;
+    .card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 20px; 
+    text-align:unset;
 }
 
 

@@ -97,18 +97,12 @@ body {
     }
 }
 
-.projects{
+#projects{
     background-color: aliceblue;
     padding:30px 0px;
     }
-    
-    .projects h1{
-    font-weight: 900;
-    font-size: 34;
-    padding-bottom: 5px;
-    
-    }
-    
+
+
     .title{
         text-align: center;
         padding:25px 0px;
